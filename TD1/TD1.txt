@@ -1,0 +1,32 @@
+2.1 What type of data concerns the Country and the New Case respectively (Nominal,
+Ordinal, Interval and Ratio)?
+
+The data is nominal.
+
+2.2 What type of chart do you think we should use?
+
+A bar chart.
+
+2.3 Why do you choose this type of chart?
+
+Because the data is nominal and therefore is separate but doesn't have a particular order.
+
+2.4 After sorting, please indicate the three countries with the most New Cases.
+
+France, Germany, Italy
+
+3.1 What default data type is the Year Week value?
+
+Ordinal
+
+3.2 Could we use it directly? If not, what data type do we need?
+
+No we would need to use new cases or an iteration that uses new cases.
+
+3.3 What type of chart do you think we should use? 
+
+A line graph.
+
+5. Which month has the most New Case in 2022?
+
+March.
