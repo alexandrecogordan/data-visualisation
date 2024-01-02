@@ -1,0 +1,1 @@
+The td2 notebook is available to run with the corresponding data folder in case the pyplot module plots are not able to run on the html file.
